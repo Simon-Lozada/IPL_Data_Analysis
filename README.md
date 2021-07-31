@@ -22,14 +22,14 @@
  - *Most lucky grounds teams*
  - *Comparison between 2 teams on the basis of their wins*
 ## Dependencies:
-###Libraries:
+### Libraries:
  - __pandas__
  - __numpy__
  - __matplotlib.pyplot__
  - __seaborn__
  - __plotly.offline__
  - __plotly.graph_objs__
-###Data:
+### Data:
  __link of the data used in this project:__ `https://drive.google.com/file/d/1-dgCkRxh5F747gvqWOQKY2EVUbMaDape/view?usp=sharing`
  You need to configure the search path of the data where you have it stored in the variable:
  - "df"(in "IPL Data Analysis" project)
